@@ -1,0 +1,9 @@
+name: RCwebBridge
+version: 3.0
+main: me.rvt.rcwebbridge.RCwebBridge
+api-version: 1.13
+authors: [RvT]
+description: Web Bridge for RebrovoCraft
+website: rebrovocraft.info
+depend:
+  - PlaceholderAPI
